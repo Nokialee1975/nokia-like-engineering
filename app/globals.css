@@ -1,0 +1,5 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { background:#FAFAF8; color:#0A0A0A; font-family: -apple-system, BlinkMacSystemFont, sans-serif; }
